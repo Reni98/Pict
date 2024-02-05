@@ -1,0 +1,5 @@
+Browser:    Chrome, Firefox, Edge
+OS: Win10,  iOS, Android, Linux
+Protocol:   IPv4, IPv6
+Encrypt:    True, False
+User:       Admin, Test_Viewer, Tester_Technical
